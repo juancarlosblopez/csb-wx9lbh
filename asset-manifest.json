@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "https://juancarlosblopez.github.io/csb-wx9lbh/static/css/main.c6a229d1.chunk.css",
-    "main.js": "https://juancarlosblopez.github.io/csb-wx9lbh/static/js/main.d11d10f1.chunk.js",
-    "main.js.map": "https://juancarlosblopez.github.io/csb-wx9lbh/static/js/main.d11d10f1.chunk.js.map",
+    "main.js": "https://juancarlosblopez.github.io/csb-wx9lbh/static/js/main.23cc4099.chunk.js",
+    "main.js.map": "https://juancarlosblopez.github.io/csb-wx9lbh/static/js/main.23cc4099.chunk.js.map",
     "runtime-main.js": "https://juancarlosblopez.github.io/csb-wx9lbh/static/js/runtime-main.b7dd27d9.js",
     "runtime-main.js.map": "https://juancarlosblopez.github.io/csb-wx9lbh/static/js/runtime-main.b7dd27d9.js.map",
     "static/css/2.fed9dcda.chunk.css": "https://juancarlosblopez.github.io/csb-wx9lbh/static/css/2.fed9dcda.chunk.css",
-    "static/js/2.0b753522.chunk.js": "https://juancarlosblopez.github.io/csb-wx9lbh/static/js/2.0b753522.chunk.js",
-    "static/js/2.0b753522.chunk.js.map": "https://juancarlosblopez.github.io/csb-wx9lbh/static/js/2.0b753522.chunk.js.map",
+    "static/js/2.e7c23204.chunk.js": "https://juancarlosblopez.github.io/csb-wx9lbh/static/js/2.e7c23204.chunk.js",
+    "static/js/2.e7c23204.chunk.js.map": "https://juancarlosblopez.github.io/csb-wx9lbh/static/js/2.e7c23204.chunk.js.map",
     "index.html": "https://juancarlosblopez.github.io/csb-wx9lbh/index.html",
     "static/css/2.fed9dcda.chunk.css.map": "https://juancarlosblopez.github.io/csb-wx9lbh/static/css/2.fed9dcda.chunk.css.map",
     "static/css/main.c6a229d1.chunk.css.map": "https://juancarlosblopez.github.io/csb-wx9lbh/static/css/main.c6a229d1.chunk.css.map",
-    "static/js/2.0b753522.chunk.js.LICENSE.txt": "https://juancarlosblopez.github.io/csb-wx9lbh/static/js/2.0b753522.chunk.js.LICENSE.txt",
+    "static/js/2.e7c23204.chunk.js.LICENSE.txt": "https://juancarlosblopez.github.io/csb-wx9lbh/static/js/2.e7c23204.chunk.js.LICENSE.txt",
     "static/media/twilio-mark-red.09b78559.svg": "https://juancarlosblopez.github.io/csb-wx9lbh/static/media/twilio-mark-red.09b78559.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b7dd27d9.js",
     "static/css/2.fed9dcda.chunk.css",
-    "static/js/2.0b753522.chunk.js",
+    "static/js/2.e7c23204.chunk.js",
     "static/css/main.c6a229d1.chunk.css",
-    "static/js/main.d11d10f1.chunk.js"
+    "static/js/main.23cc4099.chunk.js"
   ]
 }
